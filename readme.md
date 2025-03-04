@@ -93,3 +93,8 @@
 ## نتیجه‌گیری
 
 این پروژه یک پایه قوی برای **تحلیل شبکه** با استفاده از **NetworkX** ارائه می‌دهد. عملیات انجام‌شده به درک بهتر ساختار گراف‌ها و تحلیل شبکه‌های واقعی کمک می‌کند.
+
+![Directed Graph](assets/f1.png)
+![Directed Graph](assets/f2.png)
+![Directed Graph](assets/f3.png)
+![Directed Graph](assets/f4.png)
